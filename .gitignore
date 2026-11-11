@@ -1,0 +1,15 @@
+# Environments & Caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# DVC cache & credentials
+.dvc/cache
+.dvc/tmp/
+
+# Heavy artifacts handled by DVC
+*.h5
+
+# OS specific files
+.DS_Store
