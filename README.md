@@ -14,3 +14,6 @@ An end-to-end Machine Learning pipeline utilizing Git for code versioning, Data 
 - `params.yaml` - Central configuration file for hyperparameters
 - `dvc.yaml` - Pipeline stage definitions and dependency graph
 
+
+## Note
+Fashion-MNIST images are 28x28 grayscale images belonging to 10 classes.
